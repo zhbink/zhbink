@@ -4,11 +4,7 @@
 
 ![zhb1nk's github stats](https://github-readme-stats.vercel.app/api?username=zhbink&show_icons=true&theme=radical) 
 
-赵海博
 
-在读软件工程研究生
-
-想成为最好的前端工程师
 
 <!--
 **zhbink/zhbink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
