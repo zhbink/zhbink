@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm zhb1nk
 
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=radical) 
+
 赵海博
 北京理工大学软件工程硕士在读
 前端工程师
