@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm zhb1nk
+
+赵海博
+北京理工大学软件工程硕士在读
+前端工程师
+
+### This is me
+- 加油吧
 
 <!--
 **zhbink/zhbink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
